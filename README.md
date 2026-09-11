@@ -123,7 +123,7 @@ plt.show()
 ```
 ## Output
 ## Original Image
-<img width="237" height="224" alt="image" src="https://github.com/user-attachments/assets/adfc7598-a130-4af6-8cef-fdff71b262fe" />
+<img width="200" height="206" alt="image" src="https://github.com/user-attachments/assets/18e3e305-7bda-4292-8581-a0a93ed06df5" />
 
 
 
@@ -134,7 +134,7 @@ plt.show()
 - A fixed threshold value is used for segmentation.
 - Pixels are classified as foreground or background.
 
-<img width="253" height="237" alt="image" src="https://github.com/user-attachments/assets/cfb62d86-fb2c-4a66-aa58-0ee5313a7cdf" />
+<img width="253" height="224" alt="image" src="https://github.com/user-attachments/assets/9ec66b00-9836-49f9-8a06-da97b6c9d237" />
 
 
 ### Adaptive Thresholding
@@ -146,7 +146,7 @@ plt.show()
 - Suitable for images with uneven illumination.
 
 
-<img width="257" height="243" alt="image" src="https://github.com/user-attachments/assets/27a4ace3-56ba-46b1-85fb-39b0ac449252" />
+<img width="228" height="237" alt="image" src="https://github.com/user-attachments/assets/5aa9ef70-c1cb-4e16-9ba0-daa4679cea9d" />
 
 
 ### Otsu's Thresholding
@@ -157,7 +157,7 @@ plt.show()
 - Produces improved segmentation for bimodal histograms.
 
 
-<img width="255" height="222" alt="image" src="https://github.com/user-attachments/assets/2984eae0-e0cd-4c5b-aaca-37cb689fdac3" />
+<img width="219" height="254" alt="image" src="https://github.com/user-attachments/assets/b9b31edf-e733-4f1b-b7be-32bb73f465b1" />
 
 
 
